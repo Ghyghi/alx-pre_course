@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 echo "ALX School"
 =======
-echo "ALX school""
+echo "ALX school"
 >>>>>>> master
 echo "ALX School"
+>>>>>>> update_script
