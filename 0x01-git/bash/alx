@@ -1,9 +1,6 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo "ALX school is ok"
-=======
+
 echo "ALX School is ok"
-=======
+
 echo "ALX school is ok"
->>>>>>> master
->>>>>>> update_script
